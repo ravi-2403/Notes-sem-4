@@ -1,0 +1,63 @@
+.main
+{
+    padding-left: 33%;
+    /* padding-top: 10%; */
+}
+.top-container
+{
+    background-color: beige;
+    font-weight: 400;
+    width: 50%;
+    
+}
+
+.bottom-container{
+    background-color: beige;
+    width: 50%;
+    height: 500px;
+    /* padding-left: 20%; */
+    padding-top: 4.5%;
+}
+
+.container-1{
+    /* background-color: azure; */
+    background-color: beige;
+    width: 50%;
+    height: fit-content;
+
+}
+
+.container-2{
+    /* background-color: azure; */
+    background-color: beige;
+    height: 50px;
+    width: 50%;
+    padding-top: 13px;
+}
+
+#dup{
+    background-color: rgb(110, 209, 209); width: 100px;
+}
+
+#dup:hover{
+    background-color: rgb(53, 139, 139);
+}
+
+#dup-1
+{
+    background-color: lightblue;
+    width: 100px;
+}
+
+#dup-1:hover{
+    background-color: rgb(71, 119, 134);
+}
+
+
+
+
+
+
+
+
+
